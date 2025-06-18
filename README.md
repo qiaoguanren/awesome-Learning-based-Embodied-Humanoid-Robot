@@ -1,4 +1,4 @@
-# awesome-Embodied-AI-Humanoid-Robot-Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-Learning-based-Embodied-Humanoid-Robot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Humanoid robots have significant potential to master a wide range of tasks under human workspaces, making them essential embodiments of artificial intelligence in real-world environments. In the recent development of control algorithms for humanoid robots, considerable attention has been given to learning-based methods, primarily due to their superior flexibility and generalizability compared to traditional model-based control approaches. 
 
