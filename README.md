@@ -71,6 +71,8 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 - [2025 Fourier GR1] Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies [[project](https://lipschitz-constrained-policy.github.io/)] [[paper](https://arxiv.org/abs/2410.11825)] [[code](https://github.com/zixuan417/smooth-humanoid-locomotion)]
 
+- [2025 Fourier GR1] HiLo: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller [[paper](https://arxiv.org/pdf/2502.03122)]
+
 - [2024 Unitree H1 & Talos & Atlas (Simulation)] RILe: Reinforced Imitation Learning [[paper](https://arxiv.org/pdf/2406.08472)]
 
 - [2024 Unitree G1] Exbody2: Advanced Expressive Humanoid Whole-Body Control [[paper](https://exbody2.github.io/resources/exbody2.pdf)] [[project](https://exbody2.github.io/)]
@@ -138,6 +140,8 @@ To help more people stay informed about the latest progress in humanoid robots, 
 - [**ICRA** 2025 Unitree H1] Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control [[paper](https://mobile-tv.github.io/resources/pmp.pdf)] [[project](https://mobile-tv.github.io/)]
 
 - [**CoRL** 2024 Unitree H1] HumanPlus: Humanoid Shadowing and Imitation from Humans [[project](https://humanoid-ai.github.io/)] [[paper](https://humanoid-ai.github.io/HumanPlus.pdf)]
+
+- [**ICRA** 2024 Digit] Sim-to-real learning for humanoid box loco-manipulation [[paper](https://arxiv.org/pdf/2310.03191)]
 
 #### Human-Robot Interaction
 
