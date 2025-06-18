@@ -97,6 +97,8 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 - [2024 Adam] Whole-body Humanoid Robot Locomotion with Human Reference [[project](https://greatsjk.github.io/Adam-PNDbotics/)] [[paper](https://arxiv.org/abs/2402.18294)]
 
+- [2024 Digit] Opt2Skill: Imitating Dynamically-feasible Whole-Body Trajectories for Versatile Humanoid Loco-Manipulation [[paper](https://arxiv.org/pdf/2409.20514)] [[project](https://opt2skill.github.io)]
+
 #### Manipulation
 
 - [2024 Fourier GR1] ARMOR: Egocentric Perception for Humanoid Robot Collision Avoidance and Motion Planning [[paper](https://arxiv.org/pdf/2412.00396v1)]
