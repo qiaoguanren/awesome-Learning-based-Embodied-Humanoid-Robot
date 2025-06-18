@@ -5,7 +5,7 @@ Humanoid robots have significant potential to master a wide range of tasks under
 To help more people stay informed about the latest progress in humanoid robots, I have systematically collected and classified papers on locomotion, manipulation, loco-manipulation, and human-robot interaction tasks; learning-based approaches (e.g., RL, IL, VLA); and related surveys, simulators, and benchmarks.
 
 
-## Papers
+## 📑 Papers
 
 ### ⭐️ Reinforcement Learning / Imitation Learning
 
@@ -61,7 +61,9 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 - [**ICRA** 2025 Unitree H1] HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots [[paper](https://hover-versatile-humanoid.github.io/resources/HOVER_paper.pdf)] [[project](https://hover-versatile-humanoid.github.io/)]
 
-- [ 2025 Fourier GR1] Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies [[project](https://lipschitz-constrained-policy.github.io/)] [[paper](https://arxiv.org/abs/2410.11825)] [[code](https://github.com/zixuan417/smooth-humanoid-locomotion)]
+- [2025 Unitree H1] HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion [[paper](https://arxiv.org/abs/2503.00923)] [[project](https://simonlinsx.github.io/HWC_Loco/)]
+
+- [2025 Fourier GR1] Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies [[project](https://lipschitz-constrained-policy.github.io/)] [[paper](https://arxiv.org/abs/2410.11825)] [[code](https://github.com/zixuan417/smooth-humanoid-locomotion)]
 
 - [2024 Unitree H1 & Talos & Atlas (Simulation)] RILe: Reinforced Imitation Learning [[paper](https://arxiv.org/pdf/2406.08472)]
 
@@ -125,6 +127,12 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 - [**CoRL** 2024 Unitree H1] HumanPlus: Humanoid Shadowing and Imitation from Humans [[project](https://humanoid-ai.github.io/)] [[paper](https://humanoid-ai.github.io/HumanPlus.pdf)]
 
+#### Human-Robot Interaction
+
+- [2025 Unitree H1] SignBot: Learning Human-to-Humanoid Sign Language Interaction [[paper](https://arxiv.org/abs/2505.24266)] [[project](https://qiaoguanren.github.io/SignBot-demo/)]
+
+- [2025 Unitree H1] RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations [[paper](https://humanoid-interaction.github.io/resources/paper.pdf)] [[project](https://humanoid-interaction.github.io/)]
+
 ### 🌟 End-to-End Transformer / Diffusion Model
 
 #### Locomotion
@@ -156,7 +164,7 @@ To help more people stay informed about the latest progress in humanoid robots, 
 - [2025 Figure] Helix: A Vision-Language-Action Model for Generalist Humanoid Control [[report](https://www.figure.ai/news/helix)]
 
  
-## Survey
+## 📘 Survey
   
 - [2025] Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning [[paper](https://arxiv.org/abs/2501.02116)]
 
@@ -166,8 +174,12 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 - [2025] A Survey of Robotic Navigation and Manipulation with Physics Simulators in the Era of Embodied AI [[paper](https://arxiv.org/pdf/2505.01458)]
 
+- [**ACM Computing Surveys** 2025] Embodied Intelligence: A Synergy of Morphology, Action, Perception and Learning [[paper](https://dl.acm.org/doi/full/10.1145/3717059)]
 
-## Benchmark
+- [2024] Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/abs/2407.06886)]
+
+
+## 📊 Benchmark
 
 - [2025] RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning [[project](https://roboverseorg.github.io/)]
 
@@ -178,12 +190,20 @@ To help more people stay informed about the latest progress in humanoid robots, 
 - [2024] ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI [[project](https://www.maniskill.ai/)]
 
 
-## Simulators
+## 🌊 Simulators
+
+- **MuJoCo**: A physics engine for model-based control [[code](https://github.com/google-deepmind/mujoco)] [[document](https://mujoco.readthedocs.io/en/stable/)]
+
+- **Isaac Gym**: High Performance GPU-Based Physics Simulation For Robot Learning [[code](https://github.com/isaac-sim/IsaacGymEnvs)] [[paper](https://arxiv.org/abs/2108.10470)]
+
+- **Isaac Lab**: A Unified Simulation Framework for Interactive Robot Learning Environments [[code](https://github.com/isaac-sim/IsaacLab)] [[document](https://github.com/isaac-sim/IsaacLab)]
+
+- **Genesis**: A Generative and Universal Physics Engine for Robotics and Beyond [[code](https://github.com/Genesis-Embodied-AI/Genesis)] [[project](https://genesis-embodied-ai.github.io/)]
+
+- **SAPIEN**: A SimulAted Part-based Interactive ENvironment [[code](https://github.com/haosulab/SAPIEN)]
 
 
-
-
-## Acknowledgment
+## ❤️ Acknowledgment
 
 Many thanks to [JonyZhang](https://github.com/jonyzhang2023/awesome-humanoid-learning?tab=readme-ov-file)'s repository for providing these valuable resources. For those interested in humanoid robot hardware, news, and developments, this serves as an excellent reference.
 
