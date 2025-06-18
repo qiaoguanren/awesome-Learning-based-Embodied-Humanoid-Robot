@@ -59,6 +59,8 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 - [2025 Unitree H1] Humanoid Whole-Body Locomotion on Narrow Terrain via Dynamic Balance and Reinforcement Learning [[paper](https://arxiv.org/pdf/2502.17219)] [[project](https://whole-body-loco.github.io/)]
 
+- [**RSS** 2025 Unitree H1] HugWBC: A Unified and General Humanoid Whole-Body Controller for Versatile Locomotio [[paper](https://arxiv.org/pdf/2502.03206)] [[project](https://hugwbc.github.io/)]
+
 - [**RSS** 2025 Unitree G1] BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds [[paper](https://arxiv.org/abs/2502.10363)] [[project](https://why618188.github.io/beamdojo/)]
 
 - [**RSS** 2025 Unitree G1] ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills [[project](https://agile.human2humanoid.com/)] [[github](https://github.com/LeCAR-Lab/ASAP)]
@@ -66,6 +68,8 @@ To help more people stay informed about the latest progress in humanoid robots, 
 - [2025 Unitree G1] Embrace Collisions: Humanoid Shadowing for Deployable Contact-Agnostics Motions [[paper](https://arxiv.org/abs/2502.01465)]
 
 - [**ICRA** 2025 Unitree H1] HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots [[paper](https://hover-versatile-humanoid.github.io/resources/HOVER_paper.pdf)] [[project](https://hover-versatile-humanoid.github.io/)]
+
+- [2025 Unitree H1] Learning from Massive Human Videos for Universal Humanoid Pose Control [[paper](https://arxiv.org/abs/2412.14172)] [[project](https://usc-gvl.github.io/UH-1/)]
 
 - [2025 Unitree H1] HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion [[paper](https://arxiv.org/abs/2503.00923)] [[project](https://simonlinsx.github.io/HWC_Loco/)]
 
@@ -134,6 +138,8 @@ To help more people stay informed about the latest progress in humanoid robots, 
 - [2025 Unitree H1 (simulation)] FLAM: Foundation Model-Based Body Stabilization for Humanoid Locomotion and Manipulation [[paper](https://arxiv.org/pdf/2503.22249)] [[project](https://xianqi-zhang.github.io/FLAM/)]
 
 - [2025 TienKung] Trinity: A Modular Humanoid Robot AI System [[paper](https://arxiv.org/abs/2503.08338)]
+
+- [2025 Unitree H1] Being-0: A Humanoid Robotic Agent with Vision-Language Models and Modular Skills [[paper](https://arxiv.org/pdf/2503.12533)] [[project](https://beingbeyond.github.io/Being-0/)]
 
 - [**RSS** 2025 Unitree G1] HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit [[paper](https://arxiv.org/abs/2502.13013)] [[project](https://homietele.github.io/)]
 
