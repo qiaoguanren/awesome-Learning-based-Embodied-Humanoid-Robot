@@ -11,6 +11,8 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 #### Locomotion
 
+- [2025 Unitree H1] SMAP: Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control [[paper](https://arxiv.org/pdf/2505.19463)]
+
 - [2025 Unitree G1] General Motion Tracking for Humanoid Whole-Body Control [[project](https://gmt-humanoid.github.io/)] [[paper](https://arxiv.org/abs/2506.14770)]
   
 - [2025 Unitree G1] Hold My Beer: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control [[paper](https://lecar-lab.github.io/SoFTA/resources/Main-Paper.pdf)] [[project](https://lecar-lab.github.io/SoFTA/)]
