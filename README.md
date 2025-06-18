@@ -11,6 +11,8 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 #### Locomotion
 
+- [2025 Unitree G1] From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots [[paper](https://arxiv.org/abs/2505.24266)] [[project](https://beingbeyond.github.io/BumbleBee/)]
+
 - [2025 Unitree H1] SMAP: Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control [[paper](https://arxiv.org/pdf/2505.19463)]
 
 - [2025 Unitree G1] General Motion Tracking for Humanoid Whole-Body Control [[project](https://gmt-humanoid.github.io/)] [[paper](https://arxiv.org/abs/2506.14770)]
