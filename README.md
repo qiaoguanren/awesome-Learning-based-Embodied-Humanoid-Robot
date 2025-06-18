@@ -11,6 +11,8 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 #### Locomotion
 
+- [2025 Unitree G1] RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control [[paper](https://arxiv.org/abs/2506.12769)] [[project](https://beingbeyond.github.io/RLPF/)]
+
 - [2025 Unitree G1] From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots [[paper](https://arxiv.org/abs/2505.24266)] [[project](https://beingbeyond.github.io/BumbleBee/)]
 
 - [2025 Unitree H1] SMAP: Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control [[paper](https://arxiv.org/pdf/2505.19463)]
@@ -98,6 +100,8 @@ To help more people stay informed about the latest progress in humanoid robots, 
 - [2024 Adam] Whole-body Humanoid Robot Locomotion with Human Reference [[project](https://greatsjk.github.io/Adam-PNDbotics/)] [[paper](https://arxiv.org/abs/2402.18294)]
 
 - [2024 Digit] Opt2Skill: Imitating Dynamically-feasible Whole-Body Trajectories for Versatile Humanoid Loco-Manipulation [[paper](https://arxiv.org/pdf/2409.20514)] [[project](https://opt2skill.github.io)]
+
+- [** ROBOTICS & AUTOMATION MAGAZINE** 2024 Unitree G1 & JVRC-1 & ATLAS & BRUCE & Unitree H1 (Simulation)]  I-CTRL: Imitation to Control Humanoid Robots Through Bounded Residual Reinforcement Learning [[paper](https://arxiv.org/pdf/2405.08726)]
 
 #### Manipulation
 
