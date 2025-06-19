@@ -59,11 +59,11 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 - [2025 Unitree H1] Humanoid Whole-Body Locomotion on Narrow Terrain via Dynamic Balance and Reinforcement Learning [[paper](https://arxiv.org/pdf/2502.17219)] [[project](https://whole-body-loco.github.io/)]
 
-- [**RSS** 2025 Unitree H1] HugWBC: A Unified and General Humanoid Whole-Body Controller for Versatile Locomotio [[paper](https://arxiv.org/pdf/2502.03206)] [[project](https://hugwbc.github.io/)]
+- [**RSS** 2025 Unitree H1] HugWBC: A Unified and General Humanoid Whole-Body Controller for Versatile Locomotion [[paper](https://arxiv.org/pdf/2502.03206)] [[project](https://hugwbc.github.io/)]
 
 - [**RSS** 2025 Unitree G1] BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds [[paper](https://arxiv.org/abs/2502.10363)] [[project](https://why618188.github.io/beamdojo/)]
 
-- [**RSS** 2025 Unitree G1] ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills [[project](https://agile.human2humanoid.com/)] [[github](https://github.com/LeCAR-Lab/ASAP)]
+- [**RSS** 2025 Unitree G1] ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills [[project](https://agile.human2humanoid.com/)] [[paper](https://arxiv.org/pdf/2408.03018)]
 
 - [2025 Unitree G1] Embrace Collisions: Humanoid Shadowing for Deployable Contact-Agnostics Motions [[paper](https://arxiv.org/abs/2502.01465)]
 
@@ -73,7 +73,7 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 - [2025 Unitree H1] HWC-Loco: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion [[paper](https://arxiv.org/abs/2503.00923)] [[project](https://simonlinsx.github.io/HWC_Loco/)]
 
-- [2025 Fourier GR1] Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies [[project](https://lipschitz-constrained-policy.github.io/)] [[paper](https://arxiv.org/abs/2410.11825)] [[code](https://github.com/zixuan417/smooth-humanoid-locomotion)]
+- [2025 Fourier GR1] Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies [[project](https://lipschitz-constrained-policy.github.io/)] [[paper](https://arxiv.org/abs/2410.11825)]
 
 - [2025 Fourier GR1] HiLo: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller [[paper](https://arxiv.org/pdf/2502.03122)]
 
@@ -109,7 +109,9 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 - [** ROBOTICS & AUTOMATION MAGAZINE** 2024 Unitree G1 & JVRC-1 & ATLAS & BRUCE & Unitree H1 (Simulation)]  I-CTRL: Imitation to Control Humanoid Robots Through Bounded Residual Reinforcement Learning [[paper](https://arxiv.org/pdf/2405.08726)]
 
-- [2024 Unitree H1 (Simulation)] CSI: Integrating Controllable Motion Skills from Demonstrations [[project](https://vsislab.github.io/CSI_IL/)]
+- [2024 Unitree H1 (Simulation)] CSI: Integrating Controllable Motion Skills from Demonstrations [[paper](https://arxiv.org/pdf/2408.03018)] [[project](https://vsislab.github.io/CSI_IL/)]
+
+- [**Science Robotics** 2024 Digit] Real-world humanoid locomotion with reinforcement learning [[paper](https://arxiv.org/abs/2303.03381)] [[project](https://learning-humanoid-locomotion.github.io/)]
 
 #### Manipulation
 
@@ -119,13 +121,13 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 - [**CoRL** 2024 Fourier GR1] OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation [[paper](https://arxiv.org/pdf/2410.11792)]
 
-- [**CoRL** 2024 Fourier GR1] Open-TeleVision : Teleoperation with Immersive Active Visual Feedback [[project](https://robot-tv.github.io/)]
+- [**CoRL** 2024 Fourier GR1] Open-TeleVision : Teleoperation with Immersive Active Visual Feedback [[project](https://robot-tv.github.io/)] [[paper](https://arxiv.org/abs/2407.01512)]
 
 #### Loco-Manipulation
 
 - [2025 Unitree G1 & H1] Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space [[project](https://zzk273.github.io/R2S2/)] [[paper](https://www.arxiv.org/pdf/2505.10918)]
 
-- [2025 Unitree G1] CLONE: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks [[project](https://humanoid-clone.github.io/)]
+- [2025 Unitree G1] CLONE: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks [[project](https://humanoid-clone.github.io/)] [[paper](https://arxiv.org/pdf/2506.08931)]
 
 - [2025 Unitree G1] FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation [[paper](https://arxiv.org/pdf/2505.06776)] [[project](https://lecar-lab.github.io/falcon-humanoid/)] 
 
@@ -222,7 +224,7 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 - **Genesis**: A Generative and Universal Physics Engine for Robotics and Beyond [[code](https://github.com/Genesis-Embodied-AI/Genesis)] [[project](https://genesis-embodied-ai.github.io/)]
 
-- **SAPIEN**: A SimulAted Part-based Interactive ENvironment [[code](https://github.com/haosulab/SAPIEN)]
+- **SAPIEN**: A Simulated Part-based Interactive Environment [[code](https://github.com/haosulab/SAPIEN)]
 
 
 ## ❤️ Acknowledgment
