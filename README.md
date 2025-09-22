@@ -10,6 +10,15 @@ To help more people stay informed about the latest progress in humanoid robots, 
 ### ⭐️ Reinforcement Learning / Imitation Learning
 
 #### Locomotion
+
+- [2025 Unitree G1] Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robot [paper](https://arxiv.org/abs/2507.08303)
+  
+- [2025 Unitree G1] StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening [paper](https://arxiv.org/abs/2509.13200)
+  
+- [2025 Unitree G1] Track Any Motions under Any Disturbances [paper](https://arxiv.org/abs/2509.13833) [website](https://zzk273.github.io/Any2Track/)
+  
+- [2025 Unitree G1] DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion [paper](https://arxiv.org/abs/2509.14353)
+
 - [2025 ANYmal-D & GR-1] Attention-Based Map Encoding for Learning Generalized Legged Locomotion [[paper](https://arxiv.org/abs/2506.09588)]
 
 - [2025 Unitree G1] BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion [[project](https://beyondmimic.github.io/)] [[paper](https://arxiv.org/abs/2508.08241)] [[code](https://github.com/HybridRobotics/whole_body_tracking)]
@@ -122,6 +131,8 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 #### Manipulation
 
+- [2025 Unitree G1 (simulation)] Robot Drummer: Learning Rhythmic Skills for Humanoid Drumming [paper](https://arxiv.org/abs/2507.11498)
+  
 - [2025 RHP7 Kaleido] TACT: Humanoid Whole-body Contact Manipulation through Deep Imitation Learning with Tactile Modality [[paper](https://arxiv.org/pdf/2506.15146)] 
 
 - [2024 Fourier GR1] ARMOR: Egocentric Perception for Humanoid Robot Collision Avoidance and Motion Planning [[paper](https://arxiv.org/pdf/2412.00396v1)]
@@ -134,8 +145,12 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 #### Loco-Manipulation
 
+- [2025 Unitree G1] HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning [paper]((https://arxiv.org/abs/2508.21043)) [website](https://humanoid-table-tennis.github.io/)
+
+- [2025 Unitree G1] ULC: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation [paper](https://arxiv.org/pdf/2507.06905) [website](https://ulc-humanoid.github.io)
+
 - [2025 Unitree H1] SkillBlender: Towards Versatile Humanoid Whole-Body Loco-Manipulation via Skill Blending [[paper](https://arxiv.org/abs/2506.09366)] [[project](https://usc-gvl.github.io/SkillBlender-web/)] [[code](https://github.com/Humanoid-SkillBlender/SkillBlender)]
-- 
+  
 - [2025 Unitree G1 & H1] Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space [[project](https://zzk273.github.io/R2S2/)] [[paper](https://www.arxiv.org/pdf/2505.10918)]
 
 - [2025 Unitree G1] CLONE: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks [[project](https://humanoid-clone.github.io/)] [[paper](https://arxiv.org/pdf/2506.08931)]
@@ -153,7 +168,7 @@ To help more people stay informed about the latest progress in humanoid robots, 
 - [2025 TienKung] Trinity: A Modular Humanoid Robot AI System [[paper](https://arxiv.org/abs/2503.08338)]
 
 - [2025 Unitree H1] Being-0: A Humanoid Robotic Agent with Vision-Language Models and Modular Skills [[paper](https://arxiv.org/pdf/2503.12533)] [[project](https://beingbeyond.github.io/Being-0/)]
-- 
+  
 - [2025 Unitree H1] Humanoid Policy ~ Human Policy [[paper](https://arxiv.org/pdf/2503.13441)] [[project](https://human-as-robot.github.io/)] 
 
 - [2025 Unitree G1] HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit [[paper](https://arxiv.org/abs/2502.13013)] [[project](https://homietele.github.io/)]
@@ -168,7 +183,11 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 - [2025 Unitree H1] SignBot: Learning Human-to-Humanoid Sign Language Interaction [[paper](https://arxiv.org/abs/2505.24266)] [[project](https://qiaoguanren.github.io/SignBot/)]
 
-- [2025 Unitree H1] RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations [[paper](https://humanoid-interaction.github.io/resources/paper.pdf)] [[project](https://humanoid-interaction.github.io/)]
+- [2025 Unitree H1] RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations [[paper](https://humanoid-interaction.github.io/resources/paper.pdf)] [[project](https://humanoid-interaction.github.io/)]'
+
+#### Navigation
+
+- [2025 Unitree G1]  End-to-End Humanoid Robot Safe and Comfortable Locomotion Policy [papaer](https://arxiv.org/abs/2508.07611)
   
 
 ### 💫 Humanoid VLA
