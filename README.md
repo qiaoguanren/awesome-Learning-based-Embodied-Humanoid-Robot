@@ -49,7 +49,7 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 - [2025 Unitree G1] Learning Perceptive Humanoid Locomotion over Challenging Terrain [[paper](https://arxiv.org/pdf/2503.00692)]
 
-- [**RSS** 2025 Unitree G1] Learning Getting-Up Policies for Real-World Humanoid Robots [[paper](https://arxiv.org/pdf/2502.12152)] [[project](https://humanoid-getup.github.io/)]
+- [2025 Unitree G1] Learning Getting-Up Policies for Real-World Humanoid Robots [[paper](https://arxiv.org/pdf/2502.12152)] [[project](https://humanoid-getup.github.io/)]
 
 - [2025 Unitree H1 & G1] VB-Com: Learning Vision-Blind Composite Humanoid Locomotion Against Deficient Perception [[paper](https://arxiv.org/pdf/2502.14814)]
 
@@ -59,15 +59,15 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 - [2025 Unitree H1] Humanoid Whole-Body Locomotion on Narrow Terrain via Dynamic Balance and Reinforcement Learning [[paper](https://arxiv.org/pdf/2502.17219)] [[project](https://whole-body-loco.github.io/)]
 
-- [**RSS** 2025 Unitree H1] HugWBC: A Unified and General Humanoid Whole-Body Controller for Versatile Locomotion [[paper](https://arxiv.org/pdf/2502.03206)] [[project](https://hugwbc.github.io/)]
+- [2025 Unitree H1] HugWBC: A Unified and General Humanoid Whole-Body Controller for Versatile Locomotion [[paper](https://arxiv.org/pdf/2502.03206)] [[project](https://hugwbc.github.io/)]
 
-- [**RSS** 2025 Unitree G1] BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds [[paper](https://arxiv.org/abs/2502.10363)] [[project](https://why618188.github.io/beamdojo/)]
+- [2025 Unitree G1] BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds [[paper](https://arxiv.org/abs/2502.10363)] [[project](https://why618188.github.io/beamdojo/)]
 
-- [**RSS** 2025 Unitree G1] ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills [[project](https://agile.human2humanoid.com/)] [[paper](https://arxiv.org/pdf/2408.03018)]
+- [2025 Unitree G1] ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills [[project](https://agile.human2humanoid.com/)] [[paper](https://arxiv.org/pdf/2408.03018)]
 
 - [2025 Unitree G1] Embrace Collisions: Humanoid Shadowing for Deployable Contact-Agnostics Motions [[paper](https://arxiv.org/abs/2502.01465)]
 
-- [**ICRA** 2025 Unitree H1] HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots [[paper](https://hover-versatile-humanoid.github.io/resources/HOVER_paper.pdf)] [[project](https://hover-versatile-humanoid.github.io/)]
+- [2025 Unitree H1] HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots [[paper](https://hover-versatile-humanoid.github.io/resources/HOVER_paper.pdf)] [[project](https://hover-versatile-humanoid.github.io/)]
 
 - [2025 Unitree H1] Learning from Massive Human Videos for Universal Humanoid Pose Control [[paper](https://arxiv.org/abs/2412.14172)] [[project](https://usc-gvl.github.io/UH-1/)]
 
@@ -87,19 +87,19 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 - [2024 Unitree H1] Stage-Wise Reward Shaping for Acrobatic Robots: A Constrained Multi-Objective Reinforcement Learning Approach [[paper](https://arxiv.org/pdf/2409.15755)]
 
-- [**CoRL** 2024 Unitree H1] OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning [[project](https://omni.human2humanoid.com/)] [[paper](https://omni.human2humanoid.com/resources/OmniH2O_paper.pdf)]
+- [2024 Unitree H1] OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning [[project](https://omni.human2humanoid.com/)] [[paper](https://omni.human2humanoid.com/resources/OmniH2O_paper.pdf)]
 
-- [**CoRL** 2024 Unitree H1] Humanoid Parkour Learning [[paper](https://arxiv.org/abs/2406.10759)] [[project](https://humanoid4parkour.github.io/)]
+- [2024 Unitree H1] Humanoid Parkour Learning [[paper](https://arxiv.org/abs/2406.10759)] [[project](https://humanoid4parkour.github.io/)]
 
-- [**CoRL** 2024 Unitree H1] WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts [[project](https://lecar-lab.github.io/wococo/)] [[paper](https://arxiv.org/abs/2406.06005)]
+- [2024 Unitree H1] WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts [[project](https://lecar-lab.github.io/wococo/)] [[paper](https://arxiv.org/abs/2406.06005)]
 
-- [**ICRA Workshop** 2024 XBot-S & XBot-L] Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer [[paper](https://arxiv.org/abs/2404.05695)]
+- [2024 XBot-S & XBot-L] Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer [[paper](https://arxiv.org/abs/2404.05695)]
 
-- [**IROS** 2024 Unitree H1] Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation [[paper](https://arxiv.org/abs/2403.04436)] [[video](https://www.youtube.com/watch?v=0W4N2q7xtcQ)]
+- [2024 Unitree H1] Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation [[paper](https://arxiv.org/abs/2403.04436)] [[video](https://www.youtube.com/watch?v=0W4N2q7xtcQ)]
 
-- [**RSS** 2024 Unitree H1] Expressive Whole-Body Control for Humanoid Robots [[project](https://expressive-humanoid.github.io/)] [[paper](https://arxiv.org/abs/2402.16796)]
+- [2024 Unitree H1] Expressive Whole-Body Control for Humanoid Robots [[project](https://expressive-humanoid.github.io/)] [[paper](https://arxiv.org/abs/2402.16796)]
 
-- [**RSS** 2024 Xbot] Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning [[paper](https://arxiv.org/pdf/2408.14472)]
+- [2024 Xbot] Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning [[paper](https://arxiv.org/pdf/2408.14472)]
 
 - [2024 Wukong-IV] Toward Understanding Key Estimation in Learning Robust Humanoid Locomotion [[paper](https://arxiv.org/abs/2403.05868)]
 
@@ -107,13 +107,13 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 - [2024 Digit] Opt2Skill: Imitating Dynamically-feasible Whole-Body Trajectories for Versatile Humanoid Loco-Manipulation [[paper](https://arxiv.org/pdf/2409.20514)] [[project](https://opt2skill.github.io)]
 
-- [** ROBOTICS & AUTOMATION MAGAZINE** 2024 Unitree G1 & JVRC-1 & ATLAS & BRUCE & Unitree H1 (Simulation)]  I-CTRL: Imitation to Control Humanoid Robots Through Bounded Residual Reinforcement Learning [[paper](https://arxiv.org/pdf/2405.08726)]
+- [2024 Unitree G1 & JVRC-1 & ATLAS & BRUCE & Unitree H1 (Simulation)]  I-CTRL: Imitation to Control Humanoid Robots Through Bounded Residual Reinforcement Learning [[paper](https://arxiv.org/pdf/2405.08726)]
 
 - [2024 Unitree H1 (Simulation)] CSI: Integrating Controllable Motion Skills from Demonstrations [[paper](https://arxiv.org/pdf/2408.03018)] [[project](https://vsislab.github.io/CSI_IL/)]
 
-- [**Science Robotics** 2024 Digit] Real-world humanoid locomotion with reinforcement learning [[paper](https://arxiv.org/abs/2303.03381)] [[project](https://learning-humanoid-locomotion.github.io/)]
+- [2024 Digit] Real-world humanoid locomotion with reinforcement learning [[paper](https://arxiv.org/abs/2303.03381)] [[project](https://learning-humanoid-locomotion.github.io/)]
   
-- [**NeurIPS** 2024 Digit] Humanoid Locomotion as Next Token Prediction [[paper](https://arxiv.org/abs/2402.19469)]
+- [2024 Digit] Humanoid Locomotion as Next Token Prediction [[paper](https://arxiv.org/abs/2402.19469)]
 
 #### Manipulation
 
@@ -121,9 +121,9 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 - [2024 Fourier GR1] Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies [[paper](https://arxiv.org/abs/2410.10803)]
 
-- [**CoRL** 2024 Fourier GR1] OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation [[paper](https://arxiv.org/pdf/2410.11792)]
+- [2024 Fourier GR1] OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation [[paper](https://arxiv.org/pdf/2410.11792)]
 
-- [**CoRL** 2024 Fourier GR1] Open-TeleVision : Teleoperation with Immersive Active Visual Feedback [[project](https://robot-tv.github.io/)] [[paper](https://arxiv.org/abs/2407.01512)]
+- [2024 Fourier GR1] Open-TeleVision : Teleoperation with Immersive Active Visual Feedback [[project](https://robot-tv.github.io/)] [[paper](https://arxiv.org/abs/2407.01512)]
 
 #### Loco-Manipulation
 
@@ -144,34 +144,23 @@ To help more people stay informed about the latest progress in humanoid robots, 
 - [2025 TienKung] Trinity: A Modular Humanoid Robot AI System [[paper](https://arxiv.org/abs/2503.08338)]
 
 - [2025 Unitree H1] Being-0: A Humanoid Robotic Agent with Vision-Language Models and Modular Skills [[paper](https://arxiv.org/pdf/2503.12533)] [[project](https://beingbeyond.github.io/Being-0/)]
+- 
+- [2025 Unitree H1] Humanoid Policy ~ Human Policy [[paper](https://arxiv.org/pdf/2503.13441)] [[project](https://human-as-robot.github.io/)] 
 
-- [**RSS** 2025 Unitree G1] HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit [[paper](https://arxiv.org/abs/2502.13013)] [[project](https://homietele.github.io/)]
+- [2025 Unitree G1] HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit [[paper](https://arxiv.org/abs/2502.13013)] [[project](https://homietele.github.io/)]
 
-- [**ICRA** 2025 Unitree H1] Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control [[paper](https://mobile-tv.github.io/resources/pmp.pdf)] [[project](https://mobile-tv.github.io/)]
+- [2025 Unitree H1] Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control [[paper](https://mobile-tv.github.io/resources/pmp.pdf)] [[project](https://mobile-tv.github.io/)]
 
-- [**CoRL** 2024 Unitree H1] HumanPlus: Humanoid Shadowing and Imitation from Humans [[project](https://humanoid-ai.github.io/)] [[paper](https://humanoid-ai.github.io/HumanPlus.pdf)]
+- [2024 Unitree H1] HumanPlus: Humanoid Shadowing and Imitation from Humans [[project](https://humanoid-ai.github.io/)] [[paper](https://humanoid-ai.github.io/HumanPlus.pdf)]
 
-- [**ICRA** 2024 Digit] Sim-to-real learning for humanoid box loco-manipulation [[paper](https://arxiv.org/pdf/2310.03191)]
+- [2024 Digit] Sim-to-real learning for humanoid box loco-manipulation [[paper](https://arxiv.org/pdf/2310.03191)]
 
 #### Human-Robot Interaction
 
 - [2025 Unitree H1] SignBot: Learning Human-to-Humanoid Sign Language Interaction [[paper](https://arxiv.org/abs/2505.24266)] [[project](https://qiaoguanren.github.io/SignBot/)]
 
-- [2025 Unitree H1] RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations [[paper](https://humanoid-interaction.github.io/resources/paper.pdf)] [[project](https://humanoid-interaction.github.io/)]
-
-### 🌟 End-to-End Transformer / Diffusion Model
-
-#### Locomotion
-
-- [2025 Tiangong] HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots [[paper](https://arxiv.org/abs/2503.09010)]
-
-#### Manipulation
-
-- [2025 Unitree H1] Humanoid Policy ~ Human Policy [[paper](https://arxiv.org/pdf/2503.13441)] [[project](https://human-as-robot.github.io/)] 
-
-#### Loco-Manipulation
-
-- [2025 Unitree G1 (simulation)] Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models [[paper](https://arxiv.org/pdf/2504.16843)]
+- [2025 Unitree H1] RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations [[paper](https://humanoid-interaction.github.io/resources/paper.pdf)] [[project](https://humanoid-interaction.github.io/)
+  
 
 ### 💫 Humanoid VLA
 
@@ -192,13 +181,13 @@ To help more people stay informed about the latest progress in humanoid robots, 
   
 - [2025] Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning [[paper](https://arxiv.org/abs/2501.02116)]
 
-- [**IJRR** 2025] Foundation Models in Robotics: Applications, Challenges, and the Future [[paper](https://arxiv.org/pdf/2312.07843)] [[project](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)]
+- [2025] Foundation Models in Robotics: Applications, Challenges, and the Future [[paper](https://arxiv.org/pdf/2312.07843)] [[project](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)]
 
 - [2025] Embodied Intelligent Industrial Robotics: Concepts and Techniques [[paper](https://arxiv.org/pdf/2505.09305)] [[project](https://github.com/jackeyzengl/Embodied_Intelligent_Industrial_Robotics_Paper_List)] 
 
 - [2025] A Survey of Robotic Navigation and Manipulation with Physics Simulators in the Era of Embodied AI [[paper](https://arxiv.org/pdf/2505.01458)]
 
-- [**ACM Computing Surveys** 2025] Embodied Intelligence: A Synergy of Morphology, Action, Perception and Learning [[paper](https://dl.acm.org/doi/full/10.1145/3717059)]
+- [2025] Embodied Intelligence: A Synergy of Morphology, Action, Perception and Learning [[paper](https://dl.acm.org/doi/full/10.1145/3717059)]
 
 - [2024] Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[paper](https://arxiv.org/abs/2407.06886)]
 
