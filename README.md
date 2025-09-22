@@ -11,13 +11,13 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 #### Locomotion
 
-- [2025 Unitree G1] Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robot [paper](https://arxiv.org/abs/2507.08303)
+- [2025 Unitree G1] Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robot [[paper](https://arxiv.org/abs/2507.08303)]
   
-- [2025 Unitree G1] StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening [paper](https://arxiv.org/abs/2509.13200)
+- [2025 Unitree G1] StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening [[paper](https://arxiv.org/abs/2509.13200)]
   
-- [2025 Unitree G1] Track Any Motions under Any Disturbances [paper](https://arxiv.org/abs/2509.13833) [website](https://zzk273.github.io/Any2Track/)
+- [2025 Unitree G1] Track Any Motions under Any Disturbances [[paper](https://arxiv.org/abs/2509.13833)] [[website](https://zzk273.github.io/Any2Track/)]
   
-- [2025 Unitree G1] DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion [paper](https://arxiv.org/abs/2509.14353)
+- [2025 Unitree G1] DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion [[paper](https://arxiv.org/abs/2509.14353)]
 
 - [2025 ANYmal-D & GR-1] Attention-Based Map Encoding for Learning Generalized Legged Locomotion [[paper](https://arxiv.org/abs/2506.09588)]
 
@@ -131,7 +131,7 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 #### Manipulation
 
-- [2025 Unitree G1 (simulation)] Robot Drummer: Learning Rhythmic Skills for Humanoid Drumming [paper](https://arxiv.org/abs/2507.11498)
+- [2025 Unitree G1 (simulation)] Robot Drummer: Learning Rhythmic Skills for Humanoid Drumming [[paper](https://arxiv.org/abs/2507.11498)]
   
 - [2025 RHP7 Kaleido] TACT: Humanoid Whole-body Contact Manipulation through Deep Imitation Learning with Tactile Modality [[paper](https://arxiv.org/pdf/2506.15146)] 
 
@@ -145,9 +145,9 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 #### Loco-Manipulation
 
-- [2025 Unitree G1] HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning [paper]((https://arxiv.org/abs/2508.21043)) [website](https://humanoid-table-tennis.github.io/)
+- [2025 Unitree G1] HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning [[paper](https://arxiv.org/abs/2508.21043)] [[website](https://humanoid-table-tennis.github.io/)]
 
-- [2025 Unitree G1] ULC: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation [paper](https://arxiv.org/pdf/2507.06905) [website](https://ulc-humanoid.github.io)
+- [2025 Unitree G1] ULC: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation [[paper](https://arxiv.org/pdf/2507.06905)] [[website](https://ulc-humanoid.github.io)]
 
 - [2025 Unitree H1] SkillBlender: Towards Versatile Humanoid Whole-Body Loco-Manipulation via Skill Blending [[paper](https://arxiv.org/abs/2506.09366)] [[project](https://usc-gvl.github.io/SkillBlender-web/)] [[code](https://github.com/Humanoid-SkillBlender/SkillBlender)]
   
@@ -187,7 +187,7 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 #### Navigation
 
-- [2025 Unitree G1]  End-to-End Humanoid Robot Safe and Comfortable Locomotion Policy [papaer](https://arxiv.org/abs/2508.07611)
+- [2025 Unitree G1]  End-to-End Humanoid Robot Safe and Comfortable Locomotion Policy [[paper](https://arxiv.org/abs/2508.07611)]
   
 
 ### 💫 Humanoid VLA
