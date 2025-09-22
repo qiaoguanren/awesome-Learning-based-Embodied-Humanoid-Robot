@@ -145,6 +145,8 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 #### Loco-Manipulation
 
+- [2025 Unitree H1] Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning [[paper](https://arxiv.org/pdf/2509.13534)]
+
 - [2025 Unitree G1] HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning [[paper](https://arxiv.org/abs/2508.21043)] [[website](https://humanoid-table-tennis.github.io/)]
 
 - [2025 Unitree G1] ULC: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation [[paper](https://arxiv.org/pdf/2507.06905)] [[website](https://ulc-humanoid.github.io)]
@@ -199,6 +201,8 @@ To help more people stay informed about the latest progress in humanoid robots, 
 - [2025 Unitree G1] LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction [[paper](https://arxiv.org/pdf/2506.13751)]
 
 #### Manipulation
+
+- [2025 Unitree G1] TrajBooster: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning [[paper](https://arxiv.org/pdf/2509.11839)]
 
 - [2025 Fourier GR1] GR00T N1: An Open Foundation Model for Generalist Humanoid Robots [[paper](https://arxiv.org/pdf/2503.14734)] [[project](https://github.com/NVIDIA/Isaac-GR00T)]
 
