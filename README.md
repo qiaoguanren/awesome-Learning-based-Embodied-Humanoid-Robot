@@ -112,6 +112,8 @@ To help more people stay informed about the latest progress in humanoid robots, 
 - [2024 Unitree H1 (Simulation)] CSI: Integrating Controllable Motion Skills from Demonstrations [[paper](https://arxiv.org/pdf/2408.03018)] [[project](https://vsislab.github.io/CSI_IL/)]
 
 - [**Science Robotics** 2024 Digit] Real-world humanoid locomotion with reinforcement learning [[paper](https://arxiv.org/abs/2303.03381)] [[project](https://learning-humanoid-locomotion.github.io/)]
+  
+- [**NeurIPS** 2024 Digit] Humanoid Locomotion as Next Token Prediction [[paper](https://arxiv.org/abs/2402.19469)]
 
 #### Manipulation
 
@@ -162,8 +164,6 @@ To help more people stay informed about the latest progress in humanoid robots, 
 #### Locomotion
 
 - [2025 Tiangong] HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots [[paper](https://arxiv.org/abs/2503.09010)]
-
-- [2024 Digit] Humanoid Locomotion as Next Token Prediction [[paper](https://arxiv.org/abs/2402.19469)]
 
 #### Manipulation
 
