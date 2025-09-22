@@ -10,6 +10,11 @@ To help more people stay informed about the latest progress in humanoid robots, 
 ### ⭐️ Reinforcement Learning / Imitation Learning
 
 #### Locomotion
+- [2025 ANYmal-D & GR-1] Attention-Based Map Encoding for Learning Generalized Legged Locomotion [[paper](https://arxiv.org/abs/2506.09588)]
+
+- [2025 Unitree G1] BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion [[project](https://beyondmimic.github.io/)] [[paper](https://arxiv.org/abs/2508.08241)] [[code](https://github.com/HybridRobotics/whole_body_tracking)]
+
+- [2025 Unitree G1] UniTracker: Learning Universal Whole-Body Motion Tracker for Humanoid Robots [[paper](https://arxiv.org/pdf/2507.07356)]
 
 - [2025 Unitree G1] RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control [[paper](https://arxiv.org/abs/2506.12769)] [[project](https://beingbeyond.github.io/RLPF/)]
 
@@ -17,7 +22,7 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 - [2025 Unitree H1] SMAP: Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control [[paper](https://arxiv.org/pdf/2505.19463)]
 
-- [2025 Unitree G1] General Motion Tracking for Humanoid Whole-Body Control [[project](https://gmt-humanoid.github.io/)] [[paper](https://arxiv.org/abs/2506.14770)]
+- [2025 Unitree G1] General Motion Tracking for Humanoid Whole-Body Control [[project](https://gmt-humanoid.github.io/)] [[paper](https://arxiv.org/abs/2506.14770)] [[code](https://github.com/zixuan417/humanoid-general-motion-tracking)]
   
 - [2025 Unitree G1] Hold My Beer: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control [[paper](https://lecar-lab.github.io/SoFTA/resources/Main-Paper.pdf)] [[project](https://lecar-lab.github.io/SoFTA/)]
 
@@ -117,6 +122,8 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 #### Manipulation
 
+- [2025 RHP7 Kaleido] TACT: Humanoid Whole-body Contact Manipulation through Deep Imitation Learning with Tactile Modality [[paper](https://arxiv.org/pdf/2506.15146)] 
+
 - [2024 Fourier GR1] ARMOR: Egocentric Perception for Humanoid Robot Collision Avoidance and Motion Planning [[paper](https://arxiv.org/pdf/2412.00396v1)]
 
 - [2024 Fourier GR1] Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies [[paper](https://arxiv.org/abs/2410.10803)]
@@ -127,6 +134,8 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 #### Loco-Manipulation
 
+- [2025 Unitree H1] SkillBlender: Towards Versatile Humanoid Whole-Body Loco-Manipulation via Skill Blending [[paper](https://arxiv.org/abs/2506.09366)] [[project](https://usc-gvl.github.io/SkillBlender-web/)] [[code](https://github.com/Humanoid-SkillBlender/SkillBlender)]
+- 
 - [2025 Unitree G1 & H1] Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space [[project](https://zzk273.github.io/R2S2/)] [[paper](https://www.arxiv.org/pdf/2505.10918)]
 
 - [2025 Unitree G1] CLONE: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks [[project](https://humanoid-clone.github.io/)] [[paper](https://arxiv.org/pdf/2506.08931)]
