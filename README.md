@@ -159,7 +159,7 @@ To help more people stay informed about the latest progress in humanoid robots, 
 
 - [2025 Unitree H1] SignBot: Learning Human-to-Humanoid Sign Language Interaction [[paper](https://arxiv.org/abs/2505.24266)] [[project](https://qiaoguanren.github.io/SignBot/)]
 
-- [2025 Unitree H1] RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations [[paper](https://humanoid-interaction.github.io/resources/paper.pdf)] [[project](https://humanoid-interaction.github.io/)
+- [2025 Unitree H1] RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations [[paper](https://humanoid-interaction.github.io/resources/paper.pdf)] [[project](https://humanoid-interaction.github.io/)]
   
 
 ### 💫 Humanoid VLA
